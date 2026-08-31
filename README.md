@@ -1,6 +1,9 @@
 <h3><a href="https://github.com/MM2-0/Kvaesitso">kvaesitso</a></h3> 
 <p><i>"A search-focused Android launcher"</i></p>
 
+Art: https://x.com/mikkr_01/status/2080913621744533864/ 
+https://x.com/tvchany_/status/2093670009033629701
+
 <img width="30%" src="https://github.com/user-attachments/assets/977e6490-3c43-48b2-bac4-84b1e5daf679" />
 <img width="30%" src="https://github.com/user-attachments/assets/7bb226d1-475d-45c8-8b50-c5c13bb0ef03" />
 <img width="30%" src="https://github.com/user-attachments/assets/cd321437-b46e-497c-9a99-e969b055a3fb" />
